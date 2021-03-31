@@ -5,7 +5,7 @@ converting mjpeg to h264
 Switch to python3.8  (because the code is written for python 3.8)  
 https://tech.serhatteker.com/post/2019-12/upgrade-python38-on-ubuntu/  
 
-##Run the Demo
+## Run the Demo
 
 ```
 python3 demo.py 2>/dev/null  
