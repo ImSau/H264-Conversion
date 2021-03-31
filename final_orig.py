@@ -4,8 +4,6 @@
         encoder_write    encoder_read        decoder_write    decoder_read
 """
 
-
-
 import subprocess
 from queue import Queue
 from threading import Thread
